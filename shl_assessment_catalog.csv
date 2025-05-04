@@ -1,0 +1,21 @@
+Assessment Name,Assessment URL,Remote Testing Support,Adaptive/IRT Support,Duration,Test Type
+Java Developer Test,https://www.shl.com/product/java-developer-test,Yes,Yes,40 mins,Technical
+Python Developer Test,https://www.shl.com/product/python-developer-test,Yes,No,45 mins,Technical
+Cognitive Ability Test,https://www.shl.com/product/cognitive-ability-test,Yes,Yes,30 mins,Cognitive
+Situational Judgment Test,https://www.shl.com/product/situational-judgment-test,Yes,No,35 mins,Behavioral
+Communication Skills Test,https://www.shl.com/product/communication-skills-test,Yes,Yes,30 mins,Soft Skills
+Sales Aptitude Test,https://www.shl.com/product/sales-aptitude-test,Yes,No,50 mins,Aptitude
+Logical Reasoning Test,https://www.shl.com/product/logical-reasoning-test,Yes,Yes,25 mins,Cognitive
+Data Analyst Assessment,https://www.shl.com/product/data-analyst-assessment,Yes,No,60 mins,Technical
+Project Manager Evaluation,https://www.shl.com/product/project-manager-evaluation,Yes,Yes,40 mins,Behavioral
+Customer Service Simulation,https://www.shl.com/product/customer-service-simulation,Yes,No,35 mins,Soft Skills
+Finance & Accounting Test,https://www.shl.com/product/finance-accounting-test,Yes,Yes,55 mins,Technical
+Verbal Reasoning Assessment,https://www.shl.com/product/verbal-reasoning-assessment,Yes,No,20 mins,Cognitive
+Numerical Reasoning Test,https://www.shl.com/product/numerical-reasoning-test,Yes,Yes,25 mins,Cognitive
+Personality Fit Test,https://www.shl.com/product/personality-fit-test,Yes,No,15 mins,Behavioral
+Critical Thinking Exam,https://www.shl.com/product/critical-thinking-exam,Yes,Yes,30 mins,Cognitive
+Coding Simulation - Full Stack,https://www.shl.com/product/coding-simulation-fullstack,Yes,No,60 mins,Technical
+Time Management Assessment,https://www.shl.com/product/time-management-assessment,Yes,Yes,20 mins,Behavioral
+Team Collaboration Test,https://www.shl.com/product/team-collaboration-test,Yes,No,30 mins,Soft Skills
+Leadership Potential Test,https://www.shl.com/product/leadership-potential-test,Yes,Yes,45 mins,Behavioral
+SQL Developer Challenge,https://www.shl.com/product/sql-developer-challenge,Yes,No,40 mins,Technical
